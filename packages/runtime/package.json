@@ -31,7 +31,7 @@
     "mri": "1.2.0",
     "picocolors": "1.0.1",
     "pretty-ms": "7.0.1",
-    "signal-exit": "4.0.2",
+    "signal-exit": "4.1.0",
     "time-span": "4.0.0"
   },
   "devDependencies": {
