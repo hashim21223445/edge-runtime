@@ -26,11 +26,11 @@
     "@edge-runtime/format": "workspace:*",
     "@ungap/structured-clone": "1.2.0",
     "blob-polyfill": "7.0.20220408",
-    "esbuild": "0.23.0",
+    "esbuild": "0.25.0",
     "esbuild-plugin-alias": "latest",
     "event-target-shim": "6.0.2",
     "tsup": "8",
-    "undici": "5.28.4",
+    "undici": "5.29.0",
     "urlpattern-polyfill": "10.0.0"
   },
   "engines": {
