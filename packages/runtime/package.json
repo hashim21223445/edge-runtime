@@ -27,7 +27,7 @@
     "@edge-runtime/format": "workspace:*",
     "@edge-runtime/ponyfill": "workspace:*",
     "@edge-runtime/vm": "workspace:*",
-    "async-listen": "3.0.1",
+    "async-listen": "3.1.0",
     "mri": "1.2.0",
     "picocolors": "1.1.1",
     "pretty-ms": "7.0.1",
