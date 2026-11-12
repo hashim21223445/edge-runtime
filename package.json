@@ -132,7 +132,7 @@
     "jest": "29.7.0",
     "jest-watch-typeahead": "2.2.2",
     "nano-staged": "latest",
-    "next": "14.2.32",
+    "next": "15.5.10",
     "prettier": "latest",
     "simple-git-hooks": "latest",
     "ts-jest": "29.2.3",
